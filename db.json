@@ -2,19 +2,22 @@
     "comodatos": [
       {
           "id": 1,
-          "nome": "Roteador Alocado",
+          "label": "Roteador Alocado",
+          "value": "roteador alocado",
           "mac": "123234224",
           "serial": "2342443242"
       },
       {
         "id": 2,
-        "nome": "Roteador Alocado 2",
+        "label": "Roteador Alocado2",
+        "value": "roteador alocado2",
         "mac": "1232344",
         "serial": "23423242"
     },
     {
         "id": 3,
-        "nome": "Roteador Alocado 3",
+        "label": "Roteador Alocado3",
+        "value": "roteador alocado3",
         "mac": "12323422224",
         "serial": "234244333242"
     }
@@ -22,13 +25,15 @@
     "vendidos": [
         {
           "id": 1,
-          "nome": "Roteador Vendido",
+          "label": "Roteador Vendido",
+          "value": "roteador vendido",
           "mac": "12323344224",
           "serial": "234244343242"
         },
         {
           "id": 2,
-          "nome": "Roteador Vendido 2",
+          "label": "Roteador Vendido2",
+          "value": "roteador vendido2",
           "mac": "123234er224",
           "serial": "234324232443242"
         }
@@ -36,33 +41,38 @@
     "cliente": [
         {
           "id": 1,
-          "nome": "Roteador Cliente",
+          "label": "Roteador Cliente",
+          "value": "roteador cliente",
           "mac": "12323344224",
           "serial": "234244343242" 
         },
         {
-            "id": 1,
-            "nome": "Roteador CLiente 2",
+            "id": 2,
+            "label": "Roteador Cliente2",
+            "value": "roteador cliente2",
             "mac": "12323344224",
             "serial": "234244343242"
         }
     ],
     "excluidos" : [
         {
-            "id": 1,
-          "nome": "Roteador Removido",
+          "id": 1,
+          "label": "Roteador Removido",
+          "value": "roteador removido",
           "mac": "12323344224",
           "serial": "234244343242" 
         },
         {
-            "id": 1,
-          "nome": "Roteador Removido",
+          "id": 2,
+          "label": "Roteador Removido2",
+          "value": "roteador removido2",
           "mac": "12323344224",
           "serial": "234244343242" 
         },
         {
-            "id": 1,
-          "nome": "Roteador Removido",
+          "id": 3,
+          "label": "Roteador Removido2",
+          "value": "roteador removido2",
           "mac": "12323344224",
           "serial": "234244343242" 
         }
